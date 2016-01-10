@@ -1,0 +1,13 @@
+{
+  "name": "myOverReactProject",
+  "version": "1.0.0",
+  "description": "Your awesome project!",
+  "main": "index.js",
+  "scripts": {},
+  "author": "RN",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^1.12.10"
+  },
+  "dependencies": {}
+}
